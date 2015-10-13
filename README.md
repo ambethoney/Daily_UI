@@ -1,2 +1,2 @@
 # Daily_UI
-Following NoonPacific's Daily UI Initiative http://dailyui.co/
+A collection of functioning UI components, based on NoonPacific's Daily UI Initiative http://dailyui.co/
